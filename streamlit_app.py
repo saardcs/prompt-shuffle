@@ -8,7 +8,6 @@ st.title("🎴 Role • Goal • Style")
 roles = [
     "Kindergarten teacher",
     "Rapper",
-    "Personal tutor",
     "Two-year-old",
     "Computer scientist",
     "Very sad person",
@@ -27,14 +26,13 @@ goals = [
 ]
 
 styles = [
-    "Poem",
-    "Shakespearean style",
-    "Emojis only",
-    "Many puns",
-    "One sentence",
-    "Fewer than 30 words",
-    "Formal language",
-    "Pirate voice"
+    "As a poem",
+    "In the style of Shakespeare",
+    "With emojis only",
+    "With as many puns as possible",
+    "In one sentence",
+    "With formal language",
+    "In a pirate voice"
 ]
 
 if "role" not in st.session_state:
