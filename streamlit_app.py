@@ -10,7 +10,6 @@ roles = [
     "Rapper",
     "Personal tutor",
     "Two-year-old",
-    "Government regulator",
     "Computer scientist",
     "Very sad person",
     "Artist"
@@ -28,7 +27,7 @@ goals = [
 ]
 
 styles = [
-    "Acrostic poem",
+    "Poem",
     "Shakespearean style",
     "Emojis only",
     "Many puns",
